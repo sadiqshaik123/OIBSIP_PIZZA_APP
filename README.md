@@ -1,3 +1,19 @@
+# Pizza Delivery Application using MERN Stack
+
+Welcome to the Pizza Delivery Application! 🍕 This project was developed as part of the Level 3 Task from AICTE OASIS INFOBYTE, showcasing proficiency in Web Development and Design.
+
+## Project Overview
+
+The Pizza Delivery Application is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It offers a seamless experience for users to register, log in, select pizzas, choose quantities, and securely pay through Razorpay. On the admin side, functionalities include adding new pizzas, deleting pizzas, deleting users, and updating delivery statuses.
+
+## Key Features
+
+- **User Authentication:** Users can register and log in securely.
+- **Pizza Selection:** Choose from a variety of pizzas with the option to specify quantity.
+- **Razorpay Integration:** Secure and convenient payment processing.
+- **Admin Panel:** Manage pizzas, users, and delivery statuses with ease.
+
+- 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
