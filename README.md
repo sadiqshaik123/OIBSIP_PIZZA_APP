@@ -13,7 +13,6 @@ The Pizza Delivery Application is a full-stack web application built using the M
 - **Razorpay Integration:** Secure and convenient payment processing.
 - **Admin Panel:** Manage pizzas, users, and delivery statuses with ease.
 
-- 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
