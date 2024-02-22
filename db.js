@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-var mongoURL = 'your_mangodb_link'
+var mongoURL = 'your_mongodb_link'
 mongoose.set('strictQuery', false);
 mongoose.connect(mongoURL,{useUnifiedTopology:true, useNewUrlParser:true})
 
